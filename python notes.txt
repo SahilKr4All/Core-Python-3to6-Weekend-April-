@@ -1,0 +1,52 @@
+Python - Python is a general purpose high level programming language.
+
+General Purpose->
+1.Website Development
+2.Software Development
+3.Game Development
+4.Data Science - Machine Learning , Artificial Intelligence,Deep Learning..... ->Predictive Analysis
+Face Recognition
+
+
+High Level - easy to learn & easy to use - python's syntax(code) is as simple as like english
+
+
+Python Features : 
+1.General Purpose Programming
+2.High Level Programming
+3.Python is a multi-paradigm programming
+python =Procedural(step by step)+ OOP(objects & Classes)+Functional(Functions)
+4.Python is open source(Freely available)
+5.Python is a dynamically typed programming(type-dynamic)
+6.Python is a interpreted(interpreter-which executes the code in line by line manner) Programming
+COmpiler - IT executes the whole program at once
+
+How to print in Python?
+
+Syllabus:
+1.Basic Intro
+2.I/O
+3.variables & constants
+Operators - 
+a.Arithmetical Operators +,-,*,/,//(floor divison),**(power),%-modulus(remainder)
+4.Data Types:
+	1.number - int,float,complex
+	2.String - 
+	3.Boolean - true/false
+	4.NoneType None
+
+5.If-else 
+6.Loops - for loop,while loop	
+Application - Chatbot 
+
+7.Data COllection - list,tuple,dictionary,sets
+Application - web crawling
+
+8.Functions
+9.Exceptions
+10.File Handeling
+
+Main Project :Game
+Pygame 
+
+
