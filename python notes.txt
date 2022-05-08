@@ -29,6 +29,9 @@ Syllabus:
 3.variables & constants
 Operators - 
 a.Arithmetical Operators +,-,*,/,//(floor divison),**(power),%-modulus(remainder)
+b.Relational Operator  >,<,>=,<=,==,!=
+c.Logical Operators
+
 4.Data Types:
 	1.number - int,float,complex
 	2.String - 
