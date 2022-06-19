@@ -1,0 +1,10 @@
+Web Crawling:
+1.Request & wait for response - urllib.request(sends the request , and fetch the response)
+3.fetch the item - bs4(BeautifulSoup4),lxml(library XML)
+
+
+
+
+If you want to install modules in python:
+1.open cmd
+2.pip install Modulename
